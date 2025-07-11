@@ -5,13 +5,13 @@
 ## Игры
 
 ### Проверка на чётность (brain-even)
-[![asciicast](https://asciinema.org/a/JRzQw9mY0U58oM0xt74VKrbqU.svg)](https://asciinema.org/a/JRzQw9mY0U58oM0xt74VKrbqU)
+[![asciicast](https://asciinema.org/a/6Iy9GzTPXtwFG9AO46n7fsfmk.svg)](https://asciinema.org/a/6Iy9GzTPXtwFG9AO46n7fsfmk)
 
 ### Калькулятор (brain-calc)
-[![asciicast](https://asciinema.org/a/fJcvEyu5Rq3gXqwOA71PYv1Ur.svg)](https://asciinema.org/a/fJcvEyu5Rq3gXqwOA71PYv1Ur)
+[![asciicast](https://asciinema.org/a/SlahPEKP1qzbvvNbFyc7cmKbs.svg)](https://asciinema.org/a/SlahPEKP1qzbvvNbFyc7cmKbs)
 
 ### Наибольший общий делитель (brain-gcd)
-[![asciicast](https://asciinema.org/a/sDb4jm6mYnRVY9wY8NMHLi8CJ.svg)](https://asciinema.org/a/sDb4jm6mYnRVY9wY8NMHLi8CJ)
+[![asciicast](https://asciinema.org/a/44qYwYcXqyLn1w1357jIxqkQ1.svg)](https://asciinema.org/a/44qYwYcXqyLn1w1357jIxqkQ1)
 
 ### Арифметическая прогрессия (brain-progression)
-[![asciicast](https://asciinema.org/a/ANSfVLCpCQkBJZQvCGEsqFK3U.svg)](https://asciinema.org/a/ANSfVLCpCQkBJZQvCGEsqFK3U)
+[![asciicast](https://asciinema.org/a/M51rYrWsQydNiZBMj8RHpL84P.svg)](https://asciinema.org/a/M51rYrWsQydNiZBMj8RHpL84P)
