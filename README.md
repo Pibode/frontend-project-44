@@ -9,3 +9,6 @@
 
 ### Калькулятор (brain-calc)
 [![asciicast](https://asciinema.org/a/DEF456.svg)](https://asciinema.org/a/DEF456)
+
+### Наибольший общий делитель (brain-gcd)
+[![asciicast](https://asciinema.org/a/iyo1ZplZl70O621qlhvq7hBOa.svg)](https://asciinema.org/a/iyo1ZplZl70O621qlhvq7hBOa)
