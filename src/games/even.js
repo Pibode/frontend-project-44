@@ -1,7 +1,7 @@
 import runGame from '../index.js'
 import { getRandomNumber } from '../utils.js'
 
-export const isEven = num => num % 2 === 0  // Добавлен экспорт
+export const isEven = num => num % 2 === 0 // Добавлен экспорт
 
 const generateRound = () => {
   const number = getRandomNumber(1, 100)

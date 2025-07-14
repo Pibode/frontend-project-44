@@ -1,26 +1,26 @@
 import js from '@eslint/js'
 import globals from 'globals'
+import stylisticJs from '@stylistic/eslint-plugin'
 
 export default [
   js.configs.recommended,
   {
     plugins: {
-      '@stylistic': require('@stylistic/eslint-plugin')
+      '@stylistic': stylisticJs,
     },
     languageOptions: {
       globals: {
         ...globals.browser,
-        ...globals.node
-      }
+        ...globals.node,
+      },
     },
     rules: {
       'no-console': 'off',
       '@stylistic/semi': ['error', 'never'],
       '@stylistic/eol-last': ['error', 'always'],
-      '@stylistic/comma-dangle': ['error', 'never'],
-      '@stylistic/arrow-parens': ['error', 'as-needed'],
+      '@stylistic/comma-dangle': ['error', 'always-multiline'],
+      '@stylistic/no-trailing-spaces': 'error',
       '@stylistic/no-multi-spaces': 'error',
-      '@stylistic/no-multiple-empty-lines': ['error', { max: 1 }]
-    }
-  }
+    },
+  },
 ]
