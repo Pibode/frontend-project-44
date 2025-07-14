@@ -16,9 +16,6 @@ const generateRound = () => {
   return [question, answer]
 }
 
-export default () => {
-  runGame(
-    'Answer "yes" if given number is prime. Otherwise answer "no".',
-    generateRound
-  )
-}
+const description = 'Answer "yes" if given number is prime. Otherwise answer "no".'
+
+export default () => runGame(description, generateRound)
